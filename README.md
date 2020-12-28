@@ -19,7 +19,7 @@
 
  
 
-'''clang
+```clang
 printf("Eat sleep code repeat");
-'''
+```
 
