@@ -1,10 +1,10 @@
 # Data Structure and Algorithms 
 
-***Topic-wise Programs***
+***Programs***
 
 | Sr.No |               Assignment Name                    | Link  |
 | ------|:------------------------------------------------:| -----:|
-| 1     |Searching Algorithms                              | Click |
+| 1     |Searching Algorithms                              | click |
 | 2     |Sorting Algorithms – Bubble, Insertion, Selection |       |
 | 3     |Sorting Algorithms – Counting ,Merge, Quick       |       |
 | 4     |Singly Linked List                                |       |
