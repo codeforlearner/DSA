@@ -1,6 +1,6 @@
 # Data Structure and Algorithms 
 
-***Topic-wise Programs:
+***Topic-wise Programs***
 
 | Sr.No |               Assignment Name                    | Link  |
 | ------|:------------------------------------------------:| -----:|
